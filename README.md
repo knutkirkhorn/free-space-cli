@@ -1,4 +1,4 @@
-# free-space-cli
+# free-space-cli [![Build Status](https://travis-ci.org/Knutakir/free-space-cli.svg?branch=master)](https://travis-ci.org/Knutakir/free-space-cli)
 > Get the amount of free space for a drive CLI
 
 ## Installation
