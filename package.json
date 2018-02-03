@@ -1,0 +1,40 @@
+{
+  "name": "@knutkirkhorn/free-space-cli",
+  "version": "1.0.0",
+  "description": "Get the amount of free space for a drive CLI",
+  "bin": {
+    "free-space": "cli.js",
+    "free-space-cli": "cli.js"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "cli.js"
+  ],
+  "engines": {
+    "node": ">=4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Knutakir/free-space-cli.git"
+  },
+  "keywords": [
+    "free",
+    "space",
+    "for",
+    "drive",
+    "cli"
+  ],
+  "author": "Knut Kirkhorn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Knutakir/free-space-cli/issues"
+  },
+  "homepage": "https://github.com/Knutakir/free-space-cli#readme",
+  "dependencies": {
+    "@knutkirkhorn/free-space": "^1.1.0",
+    "pretty-bytes": "^4.0.2"
+  }
+}
