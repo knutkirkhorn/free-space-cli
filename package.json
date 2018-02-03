@@ -35,6 +35,7 @@
   "homepage": "https://github.com/Knutakir/free-space-cli#readme",
   "dependencies": {
     "@knutkirkhorn/free-space": "^1.1.0",
+    "meow": "^4.0.0",
     "pretty-bytes": "^4.0.2"
   },
   "devDependencies": {
