@@ -6,7 +6,7 @@
     "free-space": "cli.js",
     "free-space-cli": "cli.js"
   },
-  "main": "index.js",
+  "main": "cli.js",
   "scripts": {
     "test": "ava"
   },
