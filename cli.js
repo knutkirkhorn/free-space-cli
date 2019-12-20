@@ -10,7 +10,7 @@ const cli = meow(`
         Examples
           $ free-space
           $ free-space C:
-          $ free-space \dev\sda
+          $ free-space /dev/sda
 `);
 
 const disk = cli.input[0];
