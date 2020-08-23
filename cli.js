@@ -1,5 +1,7 @@
 #!/usr/bin/env node
+
 'use strict';
+
 const freeSpace = require('@knutkirkhorn/free-space');
 const meow = require('meow');
 const prettyBytes = require('pretty-bytes');
@@ -17,6 +19,6 @@ const disk = cli.input[0];
 
 if (cli.input.length <= 1) {
     freeSpace(disk).then(bytes => {
-        console.log('Free space: ' + prettyBytes(bytes));
+        console.log(`Free space: ${prettyBytes(bytes)}`);
     });
 }
