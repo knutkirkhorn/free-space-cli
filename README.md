@@ -1,4 +1,4 @@
-# free-space-cli [![Build Status](https://travis-ci.org/Knutakir/free-space-cli.svg?branch=main)](https://travis-ci.org/Knutakir/free-space-cli)
+# free-space-cli [![Build Status](https://travis-ci.org/knutkirkhorn/free-space-cli.svg?branch=main)](https://travis-ci.org/knutkirkhorn/free-space-cli)
 > Get the amount of free space for a drive CLI
 
 ## Installation
@@ -19,8 +19,8 @@ $ free-space --help
 ```
 
 ## Related
-- [system-disk](https://github.com/Knutakir/system-disk) - Get the system disk of the computer (e.g. `C:` or `/dev/sda`)
-- [@knutkirkhorn/free-space](https://github.com/Knutakir/free-space) - API for this module
+- [system-disk](https://github.com/knutkirkhorn/system-disk) - Get the system disk of the computer (e.g. `C:` or `/dev/sda`)
+- [@knutkirkhorn/free-space](https://github.com/knutkirkhorn/free-space) - API for this module
 
 ## License
 MIT © [Knut Kirkhorn](LICENSE)
