@@ -3,8 +3,7 @@
   "version": "1.2.0",
   "description": "Get the amount of free space for a drive CLI",
   "bin": {
-    "free-space": "cli.js",
-    "free-space-cli": "cli.js"
+    "free-space": "cli.js"
   },
   "main": "cli.js",
   "scripts": {
