@@ -1,12 +1,15 @@
 # free-space-cli
+
 > Get the amount of free space for a drive CLI
 
 ## Installation
+
 ```
 $ npm install --global @knutkirkhorn/free-space-cli
 ```
 
 ## Usage
+
 ```
 $ free-space --help
 
@@ -19,8 +22,6 @@ $ free-space --help
 ```
 
 ## Related
+
 - [system-disk](https://github.com/knutkirkhorn/system-disk) - Get the system disk of the computer (e.g. `C:` or `/dev/sda`)
 - [@knutkirkhorn/free-space](https://github.com/knutkirkhorn/free-space) - API for this module
-
-## License
-MIT © [Knut Kirkhorn](LICENSE)
